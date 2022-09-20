@@ -1,1 +1,3 @@
 # Movie-Application
+MOVIE-Application
+MOVIE APP USING HTML,CSS AND JAVASCRIPT
